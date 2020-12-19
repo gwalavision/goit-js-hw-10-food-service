@@ -17,7 +17,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
+    "url": "git+https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
   "homepage": "https://github.com/luxplanjay/webpack-starter-kit#readme",
   "devDependencies": {
